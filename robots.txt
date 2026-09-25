@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.87ezkd.cn/sitemap.xml
